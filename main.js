@@ -38,7 +38,7 @@ console.log(maxOfThree(1,2,13))
 // Then, write and example of using the function.
 
 function isVowel(char){
-  if (char == 'a'|| char === 'e' || char === 'i' || char === 'o' || char === 'u') {
+  if (char === 'a'|| char === 'e' || char === 'i' || char === 'o' || char === 'u') {
     return true;
   }
   else {
